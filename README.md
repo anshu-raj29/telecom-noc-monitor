@@ -1,7 +1,5 @@
 # Telecom NOC Monitor
 
-<video src="./demo.mp4" controls width="100%"></video>
-
 Telecom NOC Monitor is a full-stack network operations dashboard for monitoring telecom tower health, signal quality, KPI trends, alerts, and ML-driven performance insights.
 
 The project provides a centralized NOC-style view of telecom network performance, helping operators track tower status, detect anomalies, compare network health, and review alert conditions from signal metrics data.
@@ -13,3 +11,7 @@ The project provides a centralized NOC-style view of telecom network performance
 - Interactive charts for signal and performance analysis
 - ML-oriented overview for anomaly and health insights
 - Backend analytics services powered by telecom metrics datasets
+
+## Demo
+
+https://github.com/anshu-raj29/telecom-noc-monitor/raw/main/demo.mp4
