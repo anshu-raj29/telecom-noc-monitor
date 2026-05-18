@@ -14,4 +14,4 @@ The project provides a centralized NOC-style view of telecom network performance
 
 ## Demo
 
-https://github.com/anshu-raj29/telecom-noc-monitor/raw/main/demo.mp4
+<video src="./demo.mp4" autoplay muted loop playsinline controls width="100%"></video>
