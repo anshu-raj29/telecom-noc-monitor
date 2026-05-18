@@ -14,4 +14,4 @@ The project provides a centralized NOC-style view of telecom network performance
 
 ## Demo
 
-![Telecom NOC Monitor demo](./demo.gif)
+<video src="./demo.mp4" controls autoplay muted loop playsinline width="100%"></video>
