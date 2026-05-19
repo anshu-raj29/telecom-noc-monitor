@@ -8,6 +8,14 @@ The platform provides a centralized monitoring interface for telecom operators t
 
 ## Features
 
+
+https://github.com/user-attachments/assets/cba5aba8-e5eb-4a8d-8ef8-854da69ee93d
+
+
+
+
+
+
 ### Core Features
 - Telecom NOC-style monitoring dashboard
 - Real-time style KPI tracking with periodic refresh
