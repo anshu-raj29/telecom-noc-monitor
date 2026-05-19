@@ -6,15 +6,13 @@ The platform provides a centralized monitoring interface for telecom operators t
 
 ---
 
-## Features
-
+## Demo Video
 
 https://github.com/user-attachments/assets/cba5aba8-e5eb-4a8d-8ef8-854da69ee93d
 
+---
 
-
-
-
+## Features
 
 ### Core Features
 - Telecom NOC-style monitoring dashboard
