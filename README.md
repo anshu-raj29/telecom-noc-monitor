@@ -12,12 +12,12 @@ https://github.com/user-attachments/assets/cba5aba8-e5eb-4a8d-8ef8-854da69ee93d
 
 ---
 
-## Features
+## Key Features
 
 ### Core Features
 - Telecom NOC-style monitoring dashboard
-- Real-time style KPI tracking with periodic refresh
-- Telecom tower/site health monitoring
+- Real-time KPI tracking with periodic refresh
+- Telecom tower and site health monitoring
 - Network availability and degradation analysis
 - Alert generation and prioritization
 - Interactive tower drill-down analytics
@@ -76,10 +76,10 @@ The application follows a full-stack architecture:
 1. Telecom KPI datasets are ingested from CSV files.
 2. Metrics are stored in MongoDB.
 3. Backend analytics engines compute:
-   - health scores
-   - anomaly scores
-   - congestion risk
-   - predictive operational risk
+   - Health scores
+   - Anomaly scores
+   - Congestion risk
+   - Predictive operational risk
 4. REST APIs expose processed analytics data.
 5. React frontend visualizes insights using charts and monitoring dashboards.
 
@@ -101,7 +101,7 @@ The application follows a full-stack architecture:
 
 ## ML & Risk Analysis
 
-The platform includes a custom predictive analytics pipeline that combines:
+The platform includes a custom predictive analytics pipeline combining:
 
 - Decision-tree style classification
 - Percentile-based anomaly detection
@@ -142,11 +142,5 @@ The project simulates a real-world telecom NOC environment where operators can p
 - Live telecom API integrations
 - Advanced ML model training
 - Distributed monitoring support
-- Cloud deployment & scaling
+- Cloud deployment and scaling
 - Predictive maintenance automation
-
----
-
-## Author
-
-Anshu Raj
